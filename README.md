@@ -1,2 +1,2 @@
-Soundloop program made with python
+Beatmaker with soundloop made with python
  
